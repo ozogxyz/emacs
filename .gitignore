@@ -34,3 +34,5 @@ var/
 /bookmarks
 /projectile-bookmarks.eld
 /projectile.cache
+/transient
+/eln-cache
