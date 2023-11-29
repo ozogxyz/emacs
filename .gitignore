@@ -1,4 +1,4 @@
-# Remove backup files.
+# Remove backup files
 *#
 *.
 *.elc
