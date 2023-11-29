@@ -1,0 +1,9 @@
+/auto-save-list
+/elpa/*
+/image-dired/
+/session.*
+/tramp
+/url/
+/var/
+*.elc
+
