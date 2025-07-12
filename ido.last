@@ -1,0 +1,248 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("D:/PROG/" . "fortran/")
+ ("d:/PROG/" . "fortran/")
+ ("c:/Users/motorbreath/AppData/Roaming/.emacs.d/" . "auto-save-list/")
+ ("c:/Users/motorbreath/AppData/Roaming/" . ".emacs.d/")
+ ("c:/Users/motorbreath/AppData/" . "Roaming/")
+ ("c:/Users/motorbreath/" . "AppData/")
+ ("d:/EMACS/" . ".emacs.d/")
+ ("d:/" . "PROG/")
+ ("d:/PROG/masm/" . "hello/")
+ ("d:/Software/emacs-30.1/.emacs.d/" . "auto-save-list/")
+ ("d:/Software/emacs-30.1/" . ".emacs.d/")
+ ("d:/Software/" . "emacs-30.1/")
+ ("c:/Users/Orkun/Documents/PowerShell/" . "Scripts/")
+ ("c:/Users/Orkun/Documents/" . "PowerShell/")
+ ("c:/Users/Orkun/OneDrive/Documents/" . "Batch/")
+ ("c:/Users/Orkun/OneDrive/" . "Documents/")
+ ("c:/Users/Orkun/programming/thirdparty/code_reading/" . "ace/")
+ ("c:/Users/Orkun/programming/thirdparty/" . "csapp/")
+ ("c:/Users/Orkun/programming/" . "thirdparty/")
+ ("c:/Users/Orkun/work/seeme/" . "train/")
+ ("c:/Users/Orkun/work/" . "seeme/")
+ ("c:/Users/Orkun/AppData/Local/" . "Temporary Internet Files/")
+ ("c:/Users/Orkun/AppData/" . "Roaming/")
+ ("c:/Users/" . "motorbreath/")
+ ("c:/" . "Users/")
+ ("c:/Users/Orkun/source/thirdparty/courses/" . "uiuc/")
+ ("c:/Users/Orkun/source/thirdparty/" . "courses/")
+ ("c:/Users/Orkun/source/" . "thirdparty/")
+ ("c:/Users/Orkun/" . "Documents/")
+ ("c:/Users/Orkun/AppData/Roaming/.emacs.d/" . "auto-save-list/")
+ ("c:/Users/Orkun/AppData/Roaming/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "d:/PROG/iforest/"
+ "d:/PROG/iforest/src/"
+ "d:/PROG/cpp/"
+ "d:/PROG/ray/"
+ "d:/PROG/fortran/"
+ "D:/PROG/"
+ "D:/PROG/cpp/"
+ "d:/PROG/cpp/src/"
+ "D:/PROG/cpp/src/"
+ "d:/PROG/tuick/"
+ "c:/Users/motorbreath/AppData/Roaming/.emacs.d/"
+ "D:/PROG/fortran/"
+ "d:/PROG/numerics/"
+ "d:/PROG/Win32API/"
+ "d:/PROG/Lixing/"
+ "d:/PROG/BLAS/src/"
+ "d:/PROG/BLAS/"
+ "d:/PROG/Win32API/src/"
+ "D:/PROG/Win32API/"
+ "c:/Users/"
+ "d:/TOOLS/"
+ "d:/EMACS/.emacs.d/"
+ "d:/PROG/masm/hello/"
+ "d:/Software/emacs-30.1/"
+ "c:/Users/Orkun/"
+ "c:/Users/Orkun/AppData/Roaming/.emacs.d/"
+ "c:/Users/Orkun/Documents/Batch/"
+ "c:/Users/Orkun/Documents/PowerShell/Scripts/"
+ "c:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/Tools/"
+ "c:/Users/Orkun/Desktop/sys_dump/scripts/"
+ "c:/Users/Orkun/Downloads/"
+ "c:/Users/Orkun/bin/"
+ "c:/Users/Orkun/OneDrive/Documents/"
+ "c:/Users/Orkun/env/"
+ "c:/Users/Orkun/programming/csapp/"
+ "c:/"
+ "c:/Users/Orkun/programming/thirdparty/csapp/"
+ "c:/Users/Orkun/OneDrive/Documents/Batch/"
+ "c:/Users/Orkun/programming/thirdparty/code_reading/ace/"
+ "c:/Users/Orkun/work/seeme/train/"
+ "c:/Users/Orkun/source/thirdparty/courses/uiuc/coursera-cs400/cpp-intro/"
+ "c:/Users/Orkun/source/thirdparty/courses/uiuc/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "README.md"
+ "if_types.f90"
+ "if_forest.f90"
+ "if_tree.f90"
+ ".gitignore"
+ "build.bat"
+ "main.f90"
+ "if_sampling.f90"
+ "clean.bat"
+ "Makefile"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("d:/PROG/iforest/" (26738 31104 0 0) "src/" "README.md" "main.f90" "LICENSE" "iforest.exe" "clean.bat" "build.bat" "build/" ".gitignore" ".git/" "../" "./")
+
+ ("d:/PROG/iforest/src/" (26738 30904 0 0) "if_types.f90" "if_tree.f90" "if_sampling.f90" "if_forest.f90" "../" "./")
+
+ ("c:/Users/motorbreath/AppData/Roaming/.emacs.d/" (26738 26683 0 0) "transient/" "themes/" "init.el" "ido.last" "elpa/" "eln-cache/" "early-init.el" "custom.el" "auto-save-list/" ".mc-lists.el" "../" "./")
+
+ ("d:/TOOLS/" (26738 5438 0 0) "wget.exe" "vimtutor.bat" "vimdiff.bat" "vim.bat" "view.bat" "tsoding.bat" "svn.bat" "streamlink.bat" "stream.bat" "speedtest.exe" "rufus.exe" "regshot.exe" "rclone.exe" "rars.bat" "python.bat" "pip.bat" "pdf.bat" "mpv.bat" "ibm.bat" "gvimdiff.bat" "gvim.bat" "gview.bat" "git.bat" "fbc.bat" "evim.bat" "emacs.bat" "e.bat" "dotnetenv.bat" ".wget-hsts" "../" "./")
+
+ ("D:/PROG/cpp/" (26738 5690 0 0) "README.md" "obj/" "Makefile" "main.cpp" "ifc/" "bin/" "../" "./")
+
+ ("D:/PROG/" (26738 21637 0 0) "xinhao/" "Win32API/" "tuick/" "tourofcpp/" "RISCV/" "REXX/" "raylib/" "ray/" "numerics/" "masm/" "Lixing/" "libxinhao/" "java/" "iforest/" "HLASM/" "helloc/" "hello-basic/" "fortran/" "dotnet/" "DB2_Challenges/" "csharp-hello/" "CSAPP/" "CppFortranTemplate/" "cpp/" "comms/" "../" "./")
+
+ ("d:/PROG/ray/" (26732 43916 0 0) "song.obj" "song.f90" "song.exe" "raylibdll.lib" "raylib.lib" "raylib.h" "raylib.dll" "main.obj" "main.exe" "main.c" "flac.obj" "flac.f90" "flac.exe" "build.bat" "B9 - Eddie Cochran - My Love To Remember (Alt.).mp3" "../" "./")
+
+ ("d:/PROG/cpp/" (26738 5690 0 0) "README.md" "obj/" "Makefile" "main.cpp" "ifc/" "bin/" "../" "./")
+
+ ("d:/PROG/" (26731 30759 0 0) "xinhao/" "Win32API/" "tuick/" "tourofcpp/" "RISCV/" "REXX/" "raylib/" "ray/" "numerics/" "masm/" "Lixing/" "libxinhao/" "java/" "HLASM/" "helloc/" "hello-basic/" "fortran/" "dotnet/" "DB2_Challenges/" "csharp-hello/" "CSAPP/" "CppFortranTemplate/" "cpp/" "comms/" "../" "./")
+
+ ("D:/PROG/fortran/" (26731 30019 0 0) "tags.f90" "tabulate.f90" "string_arrays.f90" "readsong.obj" "readsong.f90" "readsong.exe" "m_employee.mod" "matrops.mod" "matrix2.f90" "matrix.obj" "matrix.f90" "main.obj" "main.f90" "main.exe" "functions.f90" "employee.obj" "employee.f90" "employee.exe" "concurrent.f90" "chars.f90" "arrays.f90" "01 Them Bones.flac" "../" "./")
+
+ ("d:/PROG/fortran/" (26731 30019 0 0) "tags.f90" "tabulate.f90" "string_arrays.f90" "readsong.obj" "readsong.f90" "readsong.exe" "m_employee.mod" "matrops.mod" "matrix2.f90" "matrix.obj" "matrix.f90" "main.obj" "main.f90" "main.exe" "functions.f90" "employee.obj" "employee.f90" "employee.exe" "concurrent.f90" "chars.f90" "arrays.f90" "01 Them Bones.flac" "../" "./")
+
+ ("d:/PROG/cpp/src/" (26727 65344 0 0) "Vector.ixx" "../" "./")
+
+ ("D:/PROG/cpp/src/" (26727 64262 0 0) "Vector.ixx" "../" "./")
+
+ ("d:/PROG/tuick/" (26726 60417 0 0) "x64/" "tuick.vcxproj.user" "tuick.vcxproj.filters" "tuick.vcxproj" "tuick.sln" "tuick/" "main.cpp" ".vs/" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("c:/Users/motorbreath/AppData/Roaming/" (26726 27195 0 0) "VoiceAccess/" "Visual Studio Setup/" "Signal/" "rclone/" "raddbg/" "Ookla/" "NuGet/" "mpv/" "Microsoft/" "IrfanView/" "ghidra/" "Code/" "Adobe/" ".emacs.d/" "../" "./")
+
+ ("d:/PROG/numerics/" (26725 15868 0 0) "float.obj" "float.exe" "float.cpp" "../" "./")
+
+ ("c:/Program Files (x86)/" (26718 24135 0 0) "WindowsPowerShell/" "WindowsInstallationAssistant/" "Windows Sidebar/" "Windows Photo Viewer/" "Windows NT/" "Windows Media Player/" "Windows Mail/" "Windows Kits/" "Windows Defender/" "Reference Assemblies/" "MSBuild/" "Microsoft.NET/" "Microsoft Visual Studio/" "Microsoft SDKs/" "Microsoft/" "Internet Explorer/" "Intel/" "Google/" "desktop.ini" "Common Files/" "Application Verifier/" "../" "./")
+
+ ("c:/Program Files (x86)/Intel/" (26712 27473 0 0) "PackageManager/" "oneAPI/" "../" "./")
+
+ ("c:/Program Files (x86)/Intel/oneAPI/" (26724 10935 0 0) "umf/" "toolkit_linking_tool/" "tcm/" "tbb/" "support.txt" "setvars.bat" "setvars-vcvarsall.bat" "pti/" "oneapi-base-toolkit/" "ocloc/" "mpi/" "mkl/" "logs/" "licensing/" "ipp/" "Installer/" "dpl/" "dev-utilities/" "debugger/" "compiler_ide/" "compiler/" "common/" "2025.2/" "../" "./")
+
+ ("d:/EMACS/.emacs.d/" (26722 26271 0 0) "auto-save-list/" "../" "./")
+
+ ("d:/PROG/Lixing/" (26722 58615 0 0) "x64/" "run.bat" "Lixing.vcxproj.user" "Lixing.vcxproj.filters" "Lixing.vcxproj" "Lixing.slnLaunch.user" "Lixing.sln" "Lixing.cpp" "Lixing/" "liblixing/" "bin/" ".vs/" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("d:/PROG/BLAS/src/" (26722 18795 0 0) "hello.obj" "hello.f90" "hello.exe" "../" "./")
+
+ ("d:/PROG/BLAS/" (26722 18420 0 0) "src/" "lib/" "include/" "bin/" "../" "./")
+
+ ("d:/PROG/masm/hello/" (26712 23631 0 0) "test.obj" "test.exe" "test.asm" "hello.obj" "hello.exe" "hello.c" ".#test.asm" "../" "./")
+
+ ("D:/PROG/Win32API/" (26720 20702 0 0) "window.c" "obj/" "Makefile" "main.exe" "main.c" "hello.exe" "hello.c" "fat.c" "disk.c" ".vs/" "../" "./")
+
+ ("d:/PROG/Win32API/" (26720 20702 0 0) "window.c" "obj/" "Makefile" "main.exe" "main.c" "hello.exe" "hello.c" "fat.c" "disk.c" ".vs/" "../" "./")
+
+ ("d:/PROG/Win32API/src/" (26720 12848 0 0) "window.c" "hello.c" "fat.c" "disk.c" "dap.c" "../" "./")
+
+ ("c:/Users/motorbreath/" (26720 11166 0 0) "WindowsPowerShell/" "Videos/" "Templates/" "Start Menu/" "source/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "IntelGraphicsProfiles/" "Favorites/" "Downloads/" "Desktop/" "Cookies/" "Application Data/" "AppData/" ".zowe/" ".vscode/" ".ssh/" ".installer_lock_file" ".gitconfig" ".android/" "../" "./")
+
+ ("c:/Users/motorbreath/AppData/Roaming/.emacs.d/auto-save-list/" (26720 10327 0 0) ".saves-9604-THINKPAD~" ".saves-9396-THINKPAD~" ".saves-7096-THINKPAD~" ".saves-6460-DESKTOP-PDGGODI~" ".saves-5324-THINKPAD~" ".saves-4896-THINKPAD~" ".saves-4104-THINKPAD~" ".saves-3876-THINKPAD~" ".saves-18960-MSDOSPC~" ".saves-11176-THINKPAD~" ".saves-10164-THINKPAD~" "../" "./")
+
+ ("c:/Users/motorbreath/AppData/" (26710 26192 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Users/" (26710 25876 0 0) "Public/" "motorbreath/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("d:/EMACS/" (26677 50393 0 0) "share/" "libexec/" "lib/" "include/" "bin/" ".wget-hsts" ".emacs.d/" "../" "./")
+
+ ("d:/PROG/masm/" (26676 55075 0 0) "hello/" "add/" "../" "./")
+
+ ("d:/Software/emacs-30.1/.emacs.d/auto-save-list/" (26676 15000 0 0) ".saves-9604-THINKPAD~" ".saves-9396-THINKPAD~" ".saves-7096-THINKPAD~" ".saves-6460-DESKTOP-PDGGODI~" ".saves-5324-THINKPAD~" ".saves-4896-THINKPAD~" ".saves-4104-THINKPAD~" ".saves-3876-THINKPAD~" ".saves-11176-THINKPAD~" ".saves-10164-THINKPAD~" "../" "./")
+
+ ("d:/Software/emacs-30.1/.emacs.d/" (26672 17651 0 0) "transient/" "init.el" "ido.last" "elpa/" "early-init.el" "custom.el" "auto-save-list/" "../" "./")
+
+ ("d:/Software/emacs-30.1/" (26672 17651 0 0) "share/" "libexec/" "lib/" "include/" "bin/" ".emacs.d/" "../" "./")
+
+ ("d:/Software/" (26674 57162 0 0) "SysinternalsSuite.zip" "Subversion/" "sqlite-tools-win-x64-3490200.zip" "sqlite-tools-win-x64-3490200/" "sqlite-dll-win-x64-3490200.zip" "sqlite-dll-win-x64-3490200/" "rclone-v1.69.2-windows-amd64.zip" "rclone-v1.69.2-windows-amd64/" "python-3.13.3-embed-amd64.zip" "python-3.13.3-embed-amd64/" "platform-tools/" "ookla-speedtest-1.2.0-win64.zip" "ookla-speedtest-1.2.0-win64/" "MinGit-2.49.0-64-bit.zip" "MinGit-2.49.0-64-bit/" "JPEGView_1.3.46.zip" "JPEGView_1.3.46/" "emacs-30.1.zip" "emacs-30.1/" "edit-1.0.0-x86_64-windows.zip" "edit-1.0.0-x86_64-windows/" "../" "./")
+
+ ("c:/Users/Orkun/AppData/Roaming/.emacs.d/" (26645 6061 0 0) "transient/" "init.el" "ido.last" "elpa/" "early-init.el" "custom.el" "auto-save-list/" "../" "./")
+
+ ("c:/Users/Orkun/Documents/Batch/" (26645 4879 0 0) "theme.bat" "dump_inproc.bat" "clear_temp.bat" "../" "./")
+
+ ("c:/Users/Orkun/AppData/Roaming/" (26644 63609 0 0) "Visual Studio Setup/" "Signal/" "rclone/" "Qobuz/" "Microsoft/" "Adobe/" ".emacs.d/" "../" "./")
+
+ ("c:/Users/Orkun/OneDrive/Documents/" (26643 51650 0 0) "Orkun's Notebook.url" "../" "./")
+
+ ("c:/Users/Orkun/bin/" (26645 2243 0 0) "rclone.exe" "devon.bat" "devoff.bat" "Autoruns64.exe" "../" "./")
+
+ ("c:/Users/Orkun/Downloads/" (26644 58081 0 0) "Sysmon.zip" "Sysmon/" "recovery_codes.zip" "recovery_codes/" "rclone-v1.69.2-windows-amd64.zip" "rclone-v1.69.2-windows-amd64/" "ProcessExplorer.zip" "Misc.zip" "hosts.txt" "Green Hill Zone Wallpaper On.jpg" "desktop.ini" "Bit Wallpaper.jpg" "Bit Day Wallpaper On.jpg" "Autoruns/" "araziler.db" "7z2409-x64.exe" "../" "./")
+
+ ("c:/Users/Orkun/Documents/PowerShell/Scripts/" (26644 49588 0 0) "SyncMedia-ByHash.ps1" "files.xml" "Backup-PhotosByHash.ps1" "../" "./")
+
+ ("c:/Users/Orkun/AppData/LocalLow/" (26639 22434 0 0) "webviewdata/" "Temp/" "Microsoft/" "Lenovo/" "Intel/" "f6b5e8e93ac184a5b5d42c15ffc4b7861baed8460677b88e9cb13e44770238cd" "edf82534f579bc9ad597290bc8aa05c3774654cd88d5f7a1d9cfdf22a86d9cac" "e39474ae58e3b366188216d65f148c6b23e30cbdc5cd325c8cc5b0768b7fdfa7" "cf47f2dc5c7ad1d0a2726cc31cae35ebda81004ec78a5c4147f143e2c9345a5f" "cd15f266711cccbff4f0d167cf331f2a01839287c4d802a74805c97bf351cef2" "b623ef2f95d84730adfd0d7fdefb4e3be50bf414b05229a8acc7c2bd1b011044" "a5831bfda3fe14bfe55441d758bc6fcd6c76bde538d6ad45ea187792bb0b5496" "992c35be6d4d2b353af53be4408568622ec9f039359ba2b57b92e727d359a29c" "96a184e61659f20674f4cb075617391aff5ecc27a80e92f12383dc339cf94f5d" "7f1a17f70ddb8b776bfaaf7e39082ebd13968a45362a64efdb321f44953eaf44" "738be6fb284f017fc64ae233b1ca9b7fe1b9e36c8b26f474fb5e6a6f186c1398" "70e5c43fd01613681078927f785287c3b5f05a5b441041231bfe955b06cd7fe6" "5c4b8a338fa6f75fbb97aa9f163b1fd10e7d8aa0ee54c25f54d8415c7fbe2a2f" "5ae15f60a694c0950e9e9263d177a80534070b8370ab46037b5e27248af2b235" "55286158743f1ea3a7ff67b347481dd22ab5f7cbd2d8c4ebb5a287929ef1b101" "508b34850b959a778fe9b240ad345b8dec7d4a2c6a669632c5cb5f404559fd7b" "4a5492b657734b5e0a4168018da4c895c66b0cb808ad95dce0991b9fb5dec20e" "469d3c467764126de0fd7d2199d75fb074f734237139d8e4d15b7d4321ecb6a4" "2f20d2aebae05e3ad64cc03ef7d39e44bd0db8d5f4d21a7290b31af20f796e2a" "2e661323407e190590c8d8e588497b98471ec29036975f0f0d2eb9a466c753ea" "2b0e33e445418ba424058e892c83e7bc14c74442d6eeb596bf9e9547916e4753" "21650bb4215d663a4ee401d5483ca3d6b58a1d3069ac99235c2d4ef6596abe6b" "07fec2e751a0c2a3288bc1e2f6f79c7a972c0fc5096efed53fb6e90b57ef0bc3" "0335b2db5021c56fdaa8767cf8dc89f919140e644668182fc3e13d25fb977659" "../" "./")
+
+ ("c:/Users/Orkun/AppData/Local/" (26644 63622 0 0) "wsl/" "VirtualStore/" "ToastNotificationManagerCompat/" "Temporary Internet Files/" "Temp/" "SourceServer/" "Rufus/" "Resmon.ResmonCfg" "Qobuz/" "Publishers/" "ProtonVPN/" "Programs/" "PlaceholderTileLogoFolder/" "PeerDistRepub/" "Packages/" "PackageManagement/" "Package Cache/" "OneDrive/" "Notepad/" "Microsoft_Corporation/" "Microsoft SDKs/" "Microsoft/" "Lenovo/" "Jedi/" "IdentityNexusIntegration/" "IconCache.db" "History/" "Google/" "ElevatedDiagnostics/" "Diagnostics/" "D3DSCache/" "ConnectedDevicesPlatform/" "Comms/" "CEF/" "cache/" "Application Data/" ".IdentityService/" "../" "./")
+
+ ("c:/Users/Orkun/" (26644 62935 0 0) "Templates/" "Start Menu/" "SendTo/" "Searches/" "Recent/" "programming/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Local Settings/" "IntelGraphicsProfiles/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "bin/" "Application Data/" "AppData/" ".ssh/" ".gitconfig" "../" "./")
+
+ ("c:/Users/Orkun/Documents/" (26644 32044 0 0) "WinSettings/" "WindowsUpdate.log" "WindowsPowerShell/" "SysJunk/" "PowerShell/" "PolicyAnalyzer/" "Personal/" "Klinika/" "desktop.ini" "certificates.pfx" "Books/" "Batch/" "AydinGrup/" "Aydin/" "Araziler/" "Araçlar/" "Almanya/" "../" "./")
+
+ ("c:/Users/Orkun/Documents/PowerShell/" (26643 47529 0 0) "Scripts/" "Modules/" "Microsoft.PowerShell_profile.ps1" "Help/" "../" "./")
+
+ ("c:/Users/Orkun/programming/csapp/" (26642 25953 0 0) "Makefile" "hello.obj" "hello.exe" "hello.asm" "exchange.obj" "exchange.exe" "exchange.c" "data.obj" "data.c" "data.asm" "../" "./")
+
+ ("c:/Users/Orkun/Desktop/sys_dump/scripts/" (26642 4513 0 0) "../" "./")
+
+ ("c:/Users/Orkun/OneDrive/" (26642 6149 0 0) "Videos/" "Pictures/" "Personal Vault.lnk" "Music/" "desktop.ini" ".849C9593-D756-4E56-8D6E-42412F2A707B" "../" "./")
+
+ ("c:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/" (26639 35453 0 0) "VC/" "Team Tools/" "SDK/" "MSBuild/" "Licenses/" "DIA SDK/" "Common7/" "../" "./")
+
+ ("c:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/Tools/" (26639 35438 0 0) "VsMSBuildCmd.bat" "VsDevCmd.bat" "vsdevcmd/" "System.Runtime.CompilerServices.Unsafe.dll" "Newtonsoft.Json.dll" "Microsoft.VisualStudio.Utilities.Internal.dll" "Microsoft.VisualStudio.Telemetry.dll" "Microsoft.VisualStudio.RemoteControl.dll" "Microsoft.VisualStudio.DevShell.dll" "makehm.exe" "LaunchDevCmd.bat" "Launch-VsDevShell.ps1" "guidgen.exe" "errlook.hlp" "errlook.exe" "en/" "1033/" "../" "./")
+
+ ("c:/Users/Orkun/env/" (26641 8764 0 0) "devtools_env.bat~" "devtools_env.bat" "../" "./")
+
+ ("c:/Users/Orkun/programming/" (26640 65196 0 0) "tmp/" "thirdparty/" "personal/" "csapp/" "../" "./")
+
+ ("c:/Users/Orkun/programming/thirdparty/csapp/" (26640 53123 0 0) "reg_env.txt" "hello.obj" "hello.exe" "hello.asm" "exchange.obj" "exchange.exe" "exchange.c~" "exchange.c" "dev_env.txt" "data.obj" "data.c" "data.asm" "build.bat" "../" "./")
+
+ ("c:/Users/Orkun/OneDrive/Documents/Batch/" (26639 44420 0 0) "theme.bat" "msvc_env.bat" "clear_temp.bat" "../" "./")
+
+ ("c:/Users/Orkun/programming/thirdparty/code_reading/ace/" (26572 37370 0 0) "websvcs/" "version" "todo" "thanks" "tests/" "tao/" "readme" "PROBLEM-REPORT-FORM" "performance-tests/" "pace/" "os-patches/" "netsvcs/" "man/" "Makefile.am" "Makefile" "m4/" "include/" "faq" "examples/" "etc/" "docs/" "copying" "configure.in" "ChangeLogs/" "ChangeLog" "bin/" "authors" "asnmp/" "apps/" "aceConf.sh.in" "ACE-install.sh" "ACE-INSTALL.html" "ACE-INSTALL" "ace-config.in" "ace-config.1.in" "ace/" "acconfig.h" "._ChangeLog" "../" "./")
+
+ ("c:/Users/Orkun/programming/thirdparty/code_reading/" (26572 37377 0 0) "XFree86-3.3/" "vcf/" "tools/" "socket/" "README.txt" "qtchat/" "purenum/" "perl/" "OpenCL/" "netbsdsrc/" "jt4/" "hsqldb/" "doc/" "demogl/" "cocoon/" "argouml/" "apache/" "ace/" "._README.txt" ".git/" ".DS_Store" "../" "./")
+
+ ("c:/Users/Orkun/programming/thirdparty/" (26639 15023 0 0) "rust/" "lisp/" "csapp/" "courses/" "common-lisp/" "code_reading/" "appds/" "../" "./")
+
+ ("c:/Users/Orkun/work/seeme/train/" (26611 56696 0 0) "__init__.py" "train.py" "saver.py" "requirements.txt" "registry.py" "loader.py" "isolation_forest.py" "base.py" "../" "./")
+
+ ("c:/Users/Orkun/work/seeme/" (26611 56700 0 0) "train/" "README.md" "plot.py" "inspect_model.py" "infer/" "Dockerfile.train" "config/" ".vs/" ".pre-commit-config.yaml" ".gitignore" ".github/" ".git/" ".dockerignore" "../" "./")
+
+ ("c:/Users/Orkun/work/" (26611 56680 0 0) "seeme/" "../" "./")
+
+ ("c:/Users/Orkun/source/thirdparty/courses/uiuc/coursera-cs400/cpp-intro/" (26602 62136 0 0) "Makefile" "main.cpp" "../" "./")
+
+ ("c:/Users/Orkun/AppData/" (26566 51753 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Users/Orkun/source/thirdparty/courses/uiuc/coursera-cs400/" (26572 37392 0 0) "_make/" "stack/" "README.md" "queue/" "pair.h" "linked-memory/" "heap/" "cpp-vector/" "cpp-tower-solution2/" "cpp-tower-solution/" "cpp-tower/" "cpp-templates/" "cpp-std/" "cpp-memory2/" "cpp-memory/" "cpp-intro/" "cpp-inheritance/" "cpp-heapPuzzles/" "cpp-heapMemory/" "cpp-dtor/" "cpp-ctor/" "cpp-class/" "cpp-cctor/" "cpp-assignmentOp/" "btree/" "bst/" "binary-tree-traversals/" "binary-tree/" "avl/" "array/" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/Orkun/source/thirdparty/courses/uiuc/" (26572 37391 0 0) "coursera-cs400-hws/" "coursera-cs400/" "../" "./")
+
+ ("c:/Users/Orkun/source/thirdparty/courses/" (26577 11329 0 0) "uiuc/" "pikuma/" "nand2tetris/" "monkey-interpreter-go/" "lll/" "laracasts/" "computer_enhance/" "codecrafters/" "bootdev/" "../" "./")
+
+ ("c:/Users/Orkun/source/thirdparty/" (26577 11640 0 0) "rust/" "owl/" "ocaml/" "lisp/" "golang/" "courses/" "common-lisp/" "code_reading/" "asm/" "appds/" "android/" "../" "./")
+
+ ("c:/Users/Orkun/source/" (26583 51223 0 0) "tmp/" "thirdparty/" "repos/" "personal/" "../" "./")
+
+ ("c:/Users/Orkun/AppData/Roaming/.emacs.d/auto-save-list/" (26602 61433 0 0) "../" "./")
+
+ ("c:/Program Files/Emacs/" (26571 64624 0 0) "Uninstall-30.1.exe" "emacs-30.1/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
