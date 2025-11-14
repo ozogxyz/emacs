@@ -49,3 +49,5 @@ flycheck_*.el
 
 # undo-tree
 *.~undo-tree~
+.mc-lists.el
+ido.last
