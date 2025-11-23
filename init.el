@@ -1,33 +1,21 @@
-;; Load custom file
-(setq custom-file (concat user-emacs-directory "custom.el"))
-(load custom-file 'noerror 'nomessage)
-
 ;; ----- Package setup -----
 (require 'package)
 (setq package-archives
       '(("melpa" . "https://melpa.org/packages/")
         ("gnu" . "https://elpa.gnu.org/packages/")))
-(package-initialize)
 (unless (package-installed-p 'use-package)
   (package-refresh-contents)
   (package-install 'use-package))
 (require 'use-package)
 (setq use-package-always-ensure t)
+(setq use-package-compute-statistics t)
 
 ;; ----- Windows Git fix -----
-(setenv "HOME" (getenv "USERPROFILE"))
-(setenv "PATH" (concat "D:/MINGIT/cmd;" (getenv "PATH")))
-(setq exec-path (cons "D:/MINGIT/cmd" exec-path))
-
-;; ----- Theme -----
-(add-to-list 'custom-theme-load-path
-             (concat user-emacs-directory "themes"))
-(when (display-graphic-p)
-  (load-theme 'gruber-darker t))
-(set-face-foreground 'default "#FFFFFF")
+(add-to-list 'exec-path "D:/mingit/cmd")
+(setenv "PATH" (concat "D:/mingit/cmd;" (getenv "PATH")))
 
 ;; ----- Defaults -----
-(setq default-directory "D:/PROG"
+(setq default-directory "C:/Users/motorbreath/"
       create-lockfiles nil
       inhibit-startup-message t
       inhibit-startup-screen t
@@ -38,7 +26,7 @@
       select-enable-clipboard t
       select-enable-primary t)
 (fset 'yes-or-no-p 'y-or-n-p)
-(ido-mode t)
+(fido-mode 1)
 (show-paren-mode 1)
 
 ;; ----- Packages -----
@@ -51,12 +39,18 @@
          ("C-:"         . mc/skip-to-previous-like-this)))
 
 (use-package company
-  :ensure t
   :init
   (global-company-mode 1)
   :config
-  (setq company-minimum-prefix-length 1
-        company-tooltip-align-annotations t))
+  (setq company-tooltip-align-annotations t
+        company-minimum-prefix-length 1
+        company-idle-delay 0.2))
+
+(use-package magit
+  :defer t)
+
+(use-package which-key
+  :defer t)
 
 ;; ----- Keybindings -----
 (global-set-key (kbd "C-x C-;") 'comment-or-uncomment-region)
@@ -66,3 +60,18 @@
 (global-set-key (kbd "C-c w") 'whitespace-mode)
 (global-set-key (kbd "C-x g") 'magit-status)
 (put 'upcase-region 'disabled nil)
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(menu-bar-mode nil)
+ '(package-selected-packages nil)
+ '(scroll-bar-mode nil)
+ '(tool-bar-mode nil))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(default ((t (:family "Consolas" :foundry "outline" :slant normal :weight regular :height 108 :width normal)))))
