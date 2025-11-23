@@ -1,10 +1,4 @@
-# -*- mode: gitignore; -*-
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-*.elc
-auto-save-list
+uto-save-list
 tramp
 .\#*
 
@@ -40,14 +34,3 @@ flycheck_*.el
 
 # projectiles files
 .projectile
-
-# directory configuration
-.dir-locals.el
-
-# network security
-/network-security.data
-
-# undo-tree
-*.~undo-tree~
-.mc-lists.el
-ido.last
